@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 안녕하세요
 
-<!--
-**leesueyoung/leesueyoung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+필요할 때만 사용하는 개인 저장소입니다.  
+SQL과 데이터 분석 관련 내용을 정리하고 있습니다.  
+주로 개인 학습과 프로젝트 기록을 위해 사용합니다.
+---
 
-Here are some ideas to get you started:
+### ⚙️ 현재 배우고 있는 것
+- **SQL**: 데이터 추출 및 정제 연습 (MySQL, SQLite)
+- **Python**: pandas, matplotlib, seaborn 등 활용한 데이터 시각화
+- **통계 기초**: 평균, 분산, 상관관계 등 기본 통계 분석 이해
+- **기계학습 기초**: scikit-learn을 활용한 예측 모델 실습
+- **공공데이터 분석**: Kaggle, 통계청 API 등 다양한 데이터를 활용한 실습
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔒 대부분의 저장소는 private입니다.
